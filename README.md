@@ -35,16 +35,16 @@ sudo pacman -S --needed \
     kwin \
     kwriteconfig5 \
     kwin-scripts \
-    plasma5-applets-eventcalendar \
-    plasma5-applets-window-title \
-    plasma5-applets-window-buttons \
-    plasma5-applets-thermal-monitor \
-    plasma5-applets-system-monitor \
-    plasma5-applets-weather-widget \
-    plasma5-applets-blur \
-    plasma5-themes-breath \
-    plasma5-themes-sweet \
-    plasma5-themes-arc \
+    plasma6-applets-eventcalendar \
+    plasma6-applets-window-title \
+    plasma6-applets-window-buttons \
+    plasma6-applets-thermal-monitor \
+    plasma6-applets-system-monitor \
+    plasma6-applets-weather-widget \
+    plasma6-applets-blur \
+    plasma6-themes-breath \
+    plasma6-themes-sweet \
+    plasma6-themes-arc \
     konsole \
     dolphin
 ```
